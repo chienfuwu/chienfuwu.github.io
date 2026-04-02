@@ -101,7 +101,7 @@ url: "https://chienfuwu.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/chienfuwu/chienfuwu.github.io"
 email: "chienfuwu@gmail.com"
-<meta name="google-site-verification" content="LW0-R5d_ckfU3DF0544VYnyZxuJMcobAb8rRmywGVJM" />
+google_site_verification: "LW0-R5d_ckfU3DF0544VYnyZxuJMcobAb8rRmywGVJM"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
