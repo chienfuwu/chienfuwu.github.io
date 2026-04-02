@@ -8,21 +8,24 @@ feature_image: "/assets/img/index.JPG"
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
 {% include button.html text="Google Scholar" icon="googlescholar" link="https://scholar.google.com.tw/citations?user=bVZ3DOwAAAAJ&hl=zh-TW" color="#4285F4" %} {% include button.html text="ResearchGate" icon="researchgate" link="https://www.researchgate.net/profile/Chien-Fu-Wu" color="#00CCBB" %} {% include button.html text="Researchmap" icon="researchmap" link="https://researchmap.jp/chienfuwu" color="#0066CC" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/chienfuwu/" color="#0077B5" %} {% include button.html text="ORCID" icon="orcid" link="https://orcid.org/0000-0003-3354-9879" color="#A6CE39" %}
 
-<br>
-<br>
-<h2>News</h2>
+<div style="clear: both; height: 1px;"></div>
 
-<table>
-{% for item in site.data.news %}
-<tr>
-  <td style="white-space: nowrap; padding-right: 20px;"><strong>{{ item.date }}</strong></td>
-  <td>
-    {% if item.link and item.link != "" %}
-      <a href="{{ item.link }}">{{ item.text }} {{ item.authors }}</a>
-    {% else %}
-      {{ item.text }} {{ item.authors }}
-    {% endif %}
-  </td>
-</tr>
-{% endfor %}
+<h2 style="margin-top: 50px; border-bottom: 1px solid #eee; padding-bottom: 10px;">News</h2>
+
+<table style="border-collapse: collapse; width: 100%;">
+  {% for item in site.data.news %}
+  <tr>
+    <td style="white-space: nowrap; padding: 10px 20px 10px 0; vertical-align: top;">
+      <strong>{{ item.date }}</strong>
+    </td>
+    <td style="padding: 10px 0;">
+      {% if item.link and item.link != "" %}
+        <a href="{{ item.link }}">{{ item.text }}</a>
+      {% else %}
+        {{ item.text }}
+      {% endif %}
+      {% if item.authors %}<span style="color: #666;"> — {{ item.authors }}</span>{% endif %}
+    </td>
+  </tr>
+  {% endfor %}
 </table>
