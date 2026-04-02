@@ -14,7 +14,13 @@ feature_image: "/assets/img/index.JPG"
 {% for item in site.data.news %}
 <tr>
   <td style="white-space: nowrap; padding-right: 20px;"><strong>{{ item.date }}</strong></td>
-  <td><a href="{{ item.link }}">{{ item.text }} {{ item.authors }}</a></td>
+  <td>
+    {% if item.link and item.link != "" %}
+      <a href="{{ item.link }}">{{ item.text }} {{ item.authors }}</a>
+    {% else %}
+      {{ item.text }} {{ item.authors }}
+    {% endif %}
+  </td>
 </tr>
 {% endfor %}
 </table>
