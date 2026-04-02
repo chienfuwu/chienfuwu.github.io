@@ -48,8 +48,13 @@ body {
   margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
-  background-size: cover;
-  background-position: center;
+  background-size: 130%;
+  background-position: 60% 60%;
+  h2, p {
+    color: #ffffff;
+    font-family: 'Baskerville', serif;
+    font-size: 2.5rem;
+  }
   .container {
     min-height: 35vh;
     max-width: 60%;
@@ -214,8 +219,8 @@ a .icon {
 
 .icon {
   vertical-align: middle;
-  width: 1.1em;
-  height: 1.1em;
+  width: 1.5em;
+  height: 1.5em;
   fill: CurrentColor;
 }
 
