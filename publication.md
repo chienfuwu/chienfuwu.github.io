@@ -1,9 +1,10 @@
 ---
 layout: page
-title:
+title: Publication
 permalink: /publication/
+feature_text: |
+  ## Publication
 ---
-# Publication   
 
 ### Journal Articles
 
