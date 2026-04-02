@@ -102,6 +102,7 @@ baseurl: ""
 repo: "https://github.com/chienfuwu/chienfuwu.github.io"
 email: "chienfuwu@gmail.com"
 google_site_verification: "LW0-R5d_ckfU3DF0544VYnyZxuJMcobAb8rRmywGVJM"
+image: "/assets/img/profile.jpg"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
