@@ -11,7 +11,7 @@ feature_image: "/assets/img/index.JPG"
 
 <div style="clear: both; height: 1px;"></div>
 
-<h2 style="margin-top: 50px; border-bottom: 1px solid #eee; padding-bottom: 10px;">News</h2>
+<h2 style="margin-top: 0px; border-bottom: 1px solid #eee; padding-bottom: 10px;">News</h2>
 
 <table style="border-collapse: collapse; width: 100%;">
   {% for item in site.data.news %}
