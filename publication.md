@@ -15,39 +15,39 @@ feature_text:
 
 <p style="padding-left: 2em; text-indent: -2em;">9. <strong><u>Chien-Fu Wu</u></strong>, Shin Lee, Yi-Chiao Huang, and Chia-Ching Chu. (2025). Complete genome sequence of <em>Xanthomonas euvesicatoria</em> pv. <em>polysciadis</em> pathotype strain Pgu1PT. <em>Microbiology Resource Announcements</em>, 14:e00240-25. <a href="https://doi.org/10.1128/mra.00240-25">DOI: 10.1128/mra.00240-25</a></p>
 
-<p style="padding-left: 2em; text-indent: -2em;">8. <strong><u>Chien-Fu Wu</u></strong>, Elizabeth Regedanz, Febina Mathew, Ruchika Kashyap, Karthika Mohan, Shin-Yi Lee Marzano. Mycovirome of <em>Diaporthe helianthi</em> and <em>D. gulyae</em>, causal agents of Phomopsis stem canker of sunflower. <em>Virus Research</em>, 351, 199521. (2025)</p>
+<p style="padding-left: 2em; text-indent: -2em;">8. <strong><u>Chien-Fu Wu</u></strong>, Elizabeth Regedanz, Febina Mathew, Ruchika Kashyap, Karthika Mohan, Shin-Yi Lee Marzano. (2025). Mycovirome of <em>Diaporthe helianthi</em> and <em>D. gulyae</em>, causal agents of Phomopsis stem canker of sunflower. <em>Virus Research</em>, 351, 199521. <a href="https://doi.org/10.1016/j.virusres.2024.199521">DOI: 10.1016/j.virusres.2024.199521</a></p>
 
 #### 2024
 
-<p style="padding-left: 2em; text-indent: -2em;">7. Takumi Takamatsu, Hiroshi Arai, Yoshiyuki Itoh, Takuma Kozono, <strong><u>Chien-Fu Wu</u></strong>, Kentaro Kitaura, Hiromitsu Moriyama, Maki N Inoue. Infection pattern of male-killing viruses alters phenotypes in the tea tortrix moth <em>Homona magnanima</em>. <em>Heredity</em>, 134(2), 120–128. (2024)</p>
+<p style="padding-left: 2em; text-indent: -2em;">7. Takumi Takamatsu, Hiroshi Arai, Yoshiyuki Itoh, Takuma Kozono, <strong><u>Chien-Fu Wu</u></strong>, Kentaro Kitaura, Hiromitsu Moriyama, Maki N Inoue. (2024). Infection pattern of male-killing viruses alters phenotypes in the tea tortrix moth <em>Homona magnanima</em>. <em>Heredity</em>, 134(2), 120–128. <a href="https://doi.org/10.1038/s41437-024-00741-x">DOI: 10.1038/s41437-024-00741-x</a></p>
 
-<p style="padding-left: 2em; text-indent: -2em;">6. <strong><u>Chien-Fu Wu</u></strong>, Ryo Okada, Uri Neri, Yi-Cheng Chang, Ogawara Takashi, Kentaro Kitaura, Ken Komatsu, Hiromitsu Moriyama. Identification of a novel mycovirus belonging to the "flexivirus"-related family with icosahedral virion. <em>Virus Evolution</em>, 10(1), veae093. (2024)</p>
+<p style="padding-left: 2em; text-indent: -2em;">6. <strong><u>Chien-Fu Wu</u></strong>, Ryo Okada, Uri Neri, Yi-Cheng Chang, Ogawara Takashi, Kentaro Kitaura, Ken Komatsu, Hiromitsu Moriyama. (2024). Identification of a novel mycovirus belonging to the "flexivirus"-related family with icosahedral virion. <em>Virus Evolution</em>, 10(1), veae093. <a href="https://doi.org/10.1093/ve/veae093">DOI: 10.1093/ve/veae093</a></p>
 
-<p style="padding-left: 2em; text-indent: -2em;">5. Sidra Hassan, Urayama Syun-Ichi, Saba Shabeer, Tahseen Ali Kiran, <strong><u>Chien-Fu Wu</u></strong>, Hiromitsu Moriyama, Robert HA Coutts, Ioly Kotta Loizou, Atif Jamal. Molecular and biological characterization of a novel partitivirus from <em>Talaromyces pinophilus</em>. <em>Virus Research</em>, 343, 199351. (2024)</p>
+<p style="padding-left: 2em; text-indent: -2em;">5. Sidra Hassan, Urayama Syun-Ichi, Saba Shabeer, Tahseen Ali Kiran, <strong><u>Chien-Fu Wu</u></strong>, Hiromitsu Moriyama, Robert HA Coutts, Ioly Kotta Loizou, Atif Jamal. (2024). Molecular and biological characterization of a novel partitivirus from <em>Talaromyces pinophilus</em>. <em>Virus Research</em>, 343, 199351. <a href="https://doi.org/10.1016/j.virusres.2024.199351">DOI: 10.1016/j.virusres.2024.199351</a></p>
 
-<p style="padding-left: 2em; text-indent: -2em;">4. Yukiko Sassa-O'Brien, <strong><u>Chien-Fu Wu</u></strong>, Yasuhiko Matsushita, Kenji Ohya, Hiromitsu Moriyama, Hideto Fukushi. Complete genome sequence of <em>Chlamydia psittaci</em> NRM_5 strain isolated from a wild Indian ring-necked parakeet in Japan. <em>Microbiology Resource Announcements</em>, 13(6), e0116923. (2024)</p>
+<p style="padding-left: 2em; text-indent: -2em;">4. Yukiko Sassa-O'Brien, <strong><u>Chien-Fu Wu</u></strong>, Yasuhiko Matsushita, Kenji Ohya, Hiromitsu Moriyama, Hideto Fukushi. (2024). Complete genome sequence of <em>Chlamydia psittaci</em> NRM_5 strain isolated from a wild Indian ring-necked parakeet in Japan. <em>Microbiology Resource Announcements</em>, 13(6), e0116923. (2024)<a href="https://doi.org/10.1128/mra.01169-23">DOI: 10.1128/mra.01169-23</a></p>
 
 #### 2023
 
-<p style="padding-left: 2em; text-indent: -2em;">3. Sidra Hassan, Urayama Syun-Ichi, Saba Shabeer, <strong><u>Chien-Fu Wu</u></strong>, Hiromitsu Moriyama, Robert HA Coutts, Ioly Kotta-Loizou, Atif Jamal. Molecular and biological characterization of a partitivirus from <em>Paecilomyces variotii</em>. <em>Journal of General Virology</em>, 104(11), 001925. (2023)</p>
+<p style="padding-left: 2em; text-indent: -2em;">3. Sidra Hassan, Urayama Syun-Ichi, Saba Shabeer, <strong><u>Chien-Fu Wu</u></strong>, Hiromitsu Moriyama, Robert HA Coutts, Ioly Kotta-Loizou, Atif Jamal. (2023). Molecular and biological characterization of a partitivirus from <em>Paecilomyces variotii</em>. <em>Journal of General Virology</em>, 104(11), 001925. <a href="https://doi.org/10.1099/jgv.0.001925">DOI: 10.1099/jgv.0.001925</a></p>
 
 #### 2021
 
-<p style="padding-left: 2em; text-indent: -2em;">2. Tseng, Y.-W., <strong><u>Wu, C.-F.</u></strong>, Lee, C.-H., Chen, Y.-K., and Jan, F.-J. Universal Primers for Rapid Detection of Six <em>Pospiviroids</em> in <em>Solanaceae</em> Plants Using One-Step RT-PCR and RT-LAMP. <em>Plant Disease</em>, 105(10), 2867–2872. (2021)</p>
+<p style="padding-left: 2em; text-indent: -2em;">2. Tseng, Y.-W., <strong><u>Wu, C.-F.</u></strong>, Lee, C.-H., Chen, Y.-K., and Jan, F.-J. (2021). Universal Primers for Rapid Detection of Six <em>Pospiviroids</em> in <em>Solanaceae</em> Plants Using One-Step RT-PCR and RT-LAMP. <em>Plant Disease</em>, 105(10), 2867–2872. <a href="https://doi.org/10.1094/PDIS-12-20-2730-RE">DOI: 10.1094/PDIS-12-20-2730-RE</a></p>
 
-<p style="padding-left: 2em; text-indent: -2em;">1. <strong><u>Wu, C.-F.</u></strong>, Aoki, N., Takeshita, N., Fukuhara, T., Chiura, X. H., Arie, T., Kotta-Loizou, I., Okada, R., Komatsu, K., and Moriyama, H. Unique terminal regions and specific deletions of the segmented dsRNA genome of <em>Alternaria alternata</em> virus 1, in the proposed family Alternaviridae. <em>Frontiers in Microbiology</em>, 12, 773062. (2021)</p>
+<p style="padding-left: 2em; text-indent: -2em;">1. <strong><u>Wu, C.-F.</u></strong>, Aoki, N., Takeshita, N., Fukuhara, T., Chiura, X. H., Arie, T., Kotta-Loizou, I., Okada, R., Komatsu, K., and Moriyama, H. (2021). Unique terminal regions and specific deletions of the segmented dsRNA genome of <em>Alternaria alternata</em> virus 1, in the proposed family Alternaviridae. <em>Frontiers in Microbiology</em>, 12, 773062. <a href="https://doi.org/10.3389/fmicb.2021.773062">DOI: 10.3389/fmicb.2021.773062</a></p>
 
 ---
 
 ### Book Chapter
 
-<p style="padding-left: 2em; text-indent: -2em;">1. Hiromitsu Moriyama, Nanako Aoki, Kuko Fuke, Kana Takeshita Urayama, Naoki Takeshita, <strong><u>Chien-Fu Wu</u></strong>. Alternaviruses (Unassigned). <em>Encyclopedia of Virology</em> (ISBN: 9780128145159). Academic Press. (2021): 544–548.</p>
+<p style="padding-left: 2em; text-indent: -2em;">1. Hiromitsu Moriyama, Nanako Aoki, Kuko Fuke, Kana Takeshita Urayama, Naoki Takeshita, <strong><u>Chien-Fu Wu</u></strong>. Alternaviruses (Unassigned). <em>Encyclopedia of Virology</em> (ISBN: 9780128145159). Academic Press. (2021): 544–548.<a href="https://doi.org/10.1016/B978-0-12-814515-9.00031-X">DOI: 10.1016/B978-0-12-814515-9.00031-X</a></p>
 
 ---
 
 ### Other
 
-<p style="padding-left: 2em; text-indent: -2em;">1. Kotta-Loizou, I., <strong><u>Wu, C.-F.</u></strong>, Moriyama, H., Coutts, RHA. Create a new family (Alternaviridae) accommodating one new genus (Alternavirus) and five new species. <em>International Committee on Taxonomy of Viruses: ICTV.</em> (2022)</p>
+<p style="padding-left: 2em; text-indent: -2em;">1. Kotta-Loizou, I., <strong><u>Wu, C.-F.</u></strong>, Moriyama, H., Coutts, RHA. (2022). Create a new family (Alternaviridae) accommodating one new genus (Alternavirus) and five new species. <em>International Committee on Taxonomy of Viruses: ICTV.</em> <a href="https://ictv.global/taxonomy/taxondetails?taxnode_id=202514981&taxon_name=Alternaviridae">Family: Alternaviridae</a></p>
 
 ---
 
