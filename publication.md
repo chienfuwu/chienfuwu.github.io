@@ -3,6 +3,7 @@ layout: page
 title: Publication
 permalink: /publication/
 feature_text:
+description: "List of peer-reviewed journal articles, book chapters, invited talks, and conference presentations by Chien-Fu Wu (吳建甫), plant pathologist and mycovirus researcher."
 ---
 
 ### Journal Articles

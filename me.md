@@ -2,9 +2,27 @@
 layout: page
 title: 
 permalink: /me/
+description: 
 ---
 
-<img src="/assets/img/profile.jpg" alt="Chien-Fu Wu" width="200" style="border-radius: 70%; float: right; margin: 0 0 20px 30px;">
+<style>
+.profile-img {
+  border-radius: 70%;
+  float: right;
+  margin: 0 0 20px 30px;
+  width: 200px;
+  height: auto;
+}
+@media (max-width: 480px) {
+  .profile-img {
+    float: none;
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 150px;
+  }
+}
+</style>
+<img src="/assets/img/profile.jpg" alt="Chien-Fu Wu" class="profile-img">
 
 ## Chien-Fu Wu 吳建甫
 

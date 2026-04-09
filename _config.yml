@@ -96,13 +96,13 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-TW # Set the site language
 title: "Chien-Fu Wu" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "" # Site description and default description, also used in jekyll-seo-tag
+description: "Personal website of Chien-Fu Wu (吳建甫), Special Researcher at Kyoto University. Plant pathologist specializing in mycovirus biology, plant-virus interactions, and biological control." # Site description and default description, also used in jekyll-seo-tag
 url: "https://chienfuwu.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/chienfuwu/chienfuwu.github.io"
 email: "chienfuwu@gmail.com"
 google_site_verification: "LW0-R5d_ckfU3DF0544VYnyZxuJMcobAb8rRmywGVJM"
-image: "https://github.com/chienfuwu/chienfuwu.github.io/assets/img/profile.jpg"
+image: "https://chienfuwu.github.io/assets/img/profile.jpg"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 google_analytics: "G-NMKPPTEVEK"
