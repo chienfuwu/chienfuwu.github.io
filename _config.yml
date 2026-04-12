@@ -96,7 +96,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-TW # Set the site language
 title: "Chien-Fu Wu 吳建甫" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Personal website of Chien-Fu Wu (吳建甫), Special Researcher at Kyoto University. Plant pathologist specializing in mycovirus biology, plant-virus interactions, and biological control." # Site description and default description, also used in jekyll-seo-tag
+description: "Chien-Fu Wu (吳建甫)" # Site description and default description, also used in jekyll-seo-tag
 url: "https://chienfuwu.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/chienfuwu/chienfuwu.github.io"
