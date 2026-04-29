@@ -3,7 +3,7 @@ title: Home
 description: 
 feature_text: |
   ## Chien-Fu Wu 吳建甫
-  Special Researcher · Kyoto University
+  Specific Researcher · Kyoto University
 feature_image: "/assets/img/index.JPG"
 ---
 <style>
