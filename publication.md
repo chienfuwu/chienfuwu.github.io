@@ -8,9 +8,11 @@ description: "List of peer-reviewed journal articles, book chapters, invited tal
 
 ### Journal Articles
 
-#### 2025
+#### 2026
 
-<p style="padding-left: 2em; text-indent: -2em;">11. Shin-Yi Marzano, Connor Pedersen, Chenchen Feng, <strong><u>Chien-Fu Wu</u></strong>, Yi-Wen Tseng, David Adegoke. Naturally occurring mycovirus developed as a biopesticide to protect plants from <em>Sclerotinia sclerotiorum</em> in the greenhouse and in the field. <em>Plant Disease.</em> (In press, 2025)</p>
+<p style="padding-left: 2em; text-indent: -2em;">11. Shin-Yi Marzano, Connor Pedersen, Chenchen Feng, <strong><u>Chien-Fu Wu</u></strong>, Yi-Wen Tseng, David Adegoke. (2026). A Novel Naturally Occurring DNA Virus with Significant Potential for Controlling <em>Sclerotinia sclerotiorum</em>. <em>Plant Disease.</em> <a href="https://apsjournals.apsnet.org/doi/10.1094/PDIS-06-25-1215-RE">DOI: 10.1094/PDIS-06-25-1215-RE</a></p>
+
+#### 2025
 
 <p style="padding-left: 2em; text-indent: -2em;">10. Yukiko Sassa-O'Brien, <strong><u>Chien-Fu Wu</u></strong>, Satomi Matsunaga, Kenji Ohya, Hideto Fukushi. (2025) Isolation of "Pigeon-Type" <em>Chlamydia psittaci</em> and Detection of Chlamydia-Related Bacteria in Indian Ring-Necked Parakeets in Urban Area of Japan. <em>Veterinary Microbiology</em>, 309, 110689. <a href="https://doi.org/10.1016/j.vetmic.2025.110689">DOI: 10.1016/j.vetmic.2025.110689</a></p>
 
