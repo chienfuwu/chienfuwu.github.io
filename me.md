@@ -26,7 +26,7 @@ description:
 
 ## Chien-Fu Wu 吳建甫
 
-**Special Researcher**<br>
+**Specific Researcher**<br>
 **Laboratory of Plant Pathology, Graduate School of Agriculture, Kyoto University**
 
 <div style="margin: 10px 0 20px 0; font-size: 1.5rem;">
