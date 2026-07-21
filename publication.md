@@ -64,7 +64,7 @@ description: "List of peer-reviewed journal articles, book chapters, invited tal
 
 ### Conference Presentation
 
-<p style="padding-left: 2em; text-indent: -2em;">27. <strong><u>Chien-Fu Wu</u></strong>, Suthitar Singkaravanit-Ogawa, Yoshihiro Inoue, and Yoshitaka Takano (2026, July). Studies on a hypervirulence strain of <em>Colletotrichum orbiculare<em>. II East Asia Plant Immunity Symposium, Sapporo, Hokkaido, Japan.</p>
+<p style="padding-left: 2em; text-indent: -2em;">27. <strong><u>Chien-Fu Wu</u></strong>, Suthitar Singkaravanit-Ogawa, Yoshihiro Inoue, and Yoshitaka Takano (2026, July). Studies on a hypervirulence strain of <em>Colletotrichum orbiculare</em>. II East Asia Plant Immunity Symposium, Sapporo, Hokkaido, Japan.</p>
 
 <p style="padding-left: 2em; text-indent: -2em;">26. Laurel Leber, <strong><u>Chien-Fu Wu</u></strong>, Timothy Mueser, Shin-Yi Marzano (2026, Jan). Pyramiding plant-derived antifungal proteins to enhance white mold resistance. USDA-ARS National Sclerotinia Initiative 2026 Annual Meeting, Fargo, ND, USA.</p>
 
